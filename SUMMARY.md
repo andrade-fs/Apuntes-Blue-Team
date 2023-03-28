@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Presentación](README.md)
-* [strelock15 github](https://github.com/strelock15)
-* [Apuntes Linux](https://ajcruz15.gitbook.io/apuntes-linux/)
-* [Apuntes Red Team](https://ajcruz15.gitbook.io/red-team/)
 
 ## SEGURIDAD LINUX
 
@@ -24,4 +21,3 @@
 * [15- MONITOREAR USUARIOS CON ACCT](seguridad-linux/15-informacion-de-usuarios-con-acct.md)
 * [16- SFTP](seguridad-linux/16-sftp.md)
 * [17- MAIL SEGURO](seguridad-linux/17-mail-seguro.md)
-
